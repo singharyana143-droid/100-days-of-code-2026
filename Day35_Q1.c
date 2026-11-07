@@ -1,0 +1,2 @@
+#include <stdio.h>
+/*Find the second largest element in an array.*/
